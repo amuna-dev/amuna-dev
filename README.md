@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Amuna 👋
 
-<!--
-**amuna-dev/amuna-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer who builds **fast landing pages and websites for small businesses**: sites that bring in leads, not just look nice.
 
-Here are some ideas to get you started:
+**What I can do for you**
+- Landing pages and multi-page business websites
+- Price calculators and booking / lead forms
+- Multilingual sites (RU / EN)
+- Responsive layouts that work on any phone
+- Fast loading and basic SEO out of the box
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** HTML · CSS · JavaScript · Netlify
+
+### Featured project
+
+**[NOIR Detail](https://noirdetail1.netlify.app)**: a landing page for a car detailing studio with a price calculator, booking form and RU / EN versions. [Code](https://github.com/amuna-dev/noir-detail)
+
+### Let's work together
+
+🟢 Open for freelance projects
+
+- Upwork: https://www.upwork.com/nx/s/find-work/best-matches?from=connectsCheckout&checkoutId=2116991696710564422
