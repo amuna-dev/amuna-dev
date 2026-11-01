@@ -19,4 +19,4 @@ I'm a frontend developer who builds **fast landing pages and websites for small 
 
 🟢 Open for freelance projects
 
-- Upwork: https://www.upwork.com/nx/s/find-work/best-matches?from=connectsCheckout&checkoutId=2116991696710564422
+- Upwork: https://www.upwork.com/freelancers/~01e5e615ba4cd161e5
